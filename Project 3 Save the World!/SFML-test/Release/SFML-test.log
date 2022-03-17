@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(213): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(371): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 149 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML-test.vcxproj -> C:\Users\sethf\Documents\000MyStuff000\00Classes\CSCI 120\Projects\Project 3 Save the World!\Release\SFML-test.exe
+  SFML-test.vcxproj -> C:\Users\sethf\Documents\000MyStuff000\00Classes\CSCI 120\Projects\Project 3 Save the World!\Release\SFML-test.pdb (Full PDB)
